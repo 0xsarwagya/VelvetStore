@@ -1,6 +1,6 @@
 # VelvetStore
 
-VelvetStore is a Golang-based web application that provides user authentication, project creation, and real-time data storage using WebSockets. It allows users to sign up, log in, create projects, and store data associated with those projects.
+VelvetStore is a Golang-based Database that provides user authentication, project creation, and real-time data storage using WebSockets. It allows users to sign up, log in, create projects, and store data associated with those projects.
 
 ## Table of Contents
 
